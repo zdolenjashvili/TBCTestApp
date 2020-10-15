@@ -1,0 +1,15 @@
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.deps.json
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.csprojAssemblyReference.cache
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.AssemblyInfoInputs.cache
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.AssemblyInfo.cs
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.runtimeconfig.json
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.runtimeconfig.dev.json
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppCore.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\bin\Debug\netcoreapp3.1\TbcTestAppCore.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.csproj.CopyComplete
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppDAL\obj\Debug\netcoreapp3.1\TbcTestAppDAL.genruntimeconfig.cache

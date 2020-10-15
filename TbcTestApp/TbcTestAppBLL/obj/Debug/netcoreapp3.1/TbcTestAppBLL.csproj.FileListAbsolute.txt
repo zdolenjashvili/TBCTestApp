@@ -1,0 +1,14 @@
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppBLL.deps.json
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppBLL.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppBLL.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.AssemblyInfoInputs.cache
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.AssemblyInfo.cs
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.csprojAssemblyReference.cache
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppCore.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.dll
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppCore.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\bin\Debug\netcoreapp3.1\TbcTestAppDAL.pdb
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.csproj.CopyComplete
+C:\Users\zdolenjashvili.MOLHSA\source\repos\TbcTestApp\TbcTestAppBLL\obj\Debug\netcoreapp3.1\TbcTestAppBLL.csproj.CoreCompileInputs.cache
